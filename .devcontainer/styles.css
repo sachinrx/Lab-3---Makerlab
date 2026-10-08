@@ -1,0 +1,15 @@
+main h2 {
+  color: white;
+  background-color: darkblue;
+}
+
+main p {
+  color: black;
+  background-color: lightgray;
+}
+
+header,
+footer {
+  color: white;
+  background-color: darkred;
+}
